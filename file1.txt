@@ -1,0 +1,3 @@
+This is a file
+Hello My name is Git
+This will push the file to GitHub
